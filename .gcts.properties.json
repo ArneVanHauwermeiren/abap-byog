@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "ZBYOG",
   "repositoryLayout": {
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/36358757B92B1FD1B9BCE1FB5A236EDA_0",
     "format": "json",
-    "formatVersion": "6",
+    "formatVersion": "11",
+    "keepClient": "false",
     "metaInformation": ".gctsmetadata/",
-    "tableContent": "true",
-    "keepClient": "false"
+    "tableContent": "true"
   }
 }
