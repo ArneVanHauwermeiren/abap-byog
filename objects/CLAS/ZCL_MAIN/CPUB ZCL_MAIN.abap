@@ -4,3 +4,4 @@ CLASS zcl_main DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
+    METHODS: main.
