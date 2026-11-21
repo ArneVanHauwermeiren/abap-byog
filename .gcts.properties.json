@@ -1,0 +1,12 @@
+{
+  "name": "zbyog",
+  "version": "1.0.0",
+  "description": "ZBYOG",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "keepClient": "false"
+  }
+}
